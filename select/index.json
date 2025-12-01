@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "いとおしい人のために",
+  "base_artist": "佐藤朱美",
+  "createdAt": "2025-12-01T16:20:57.626465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いとおしい人のために",
+      "artist": "佐藤朱美",
+      "has_synced": true,
+      "path": "select/01_いとおしい人のために_佐藤朱美.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いとおしい人のために",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_いとおしい人のために_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いとおしい人のために",
+      "artist": "佐藤 朱美",
+      "has_synced": false,
+      "path": "select/pl_01_いとおしい人のために_佐藤_朱美.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "いとおしい人のために",
+      "artist": "佐藤 朱美",
+      "has_synced": false,
+      "path": "select/pl_02_いとおしい人のために_佐藤_朱美.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "いとおしい人のために",
+      "artist": "佐藤 朱美",
+      "has_synced": false,
+      "path": "select/pl_03_いとおしい人のために_佐藤_朱美.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "いとおしい人のために (TV SIZE)",
+      "artist": "佐藤 朱美",
+      "has_synced": false,
+      "path": "select/pl_04_いとおしい人のために_(TV_SIZE)_佐藤_朱美.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "いとおしい人のために",
+      "artist": "佐藤 朱美",
+      "has_synced": false,
+      "path": "select/pl_05_いとおしい人のために_佐藤_朱美.txt"
+    }
+  ]
+}
